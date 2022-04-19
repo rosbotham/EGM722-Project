@@ -1,0 +1,10 @@
+import pandas as pd
+import geopandas as gpd
+
+gdf.set_crs(epsg=29902, inplace=True)
+
+StudyA  = gpd.read_file('data_files/Binevenagh_Clip')  #studyarea
+Trk= Point(-6.33, 55.144) #track
+
+ 
+

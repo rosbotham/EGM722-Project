@@ -5,8 +5,9 @@ channels:
 dependencies:
 - python=3.8.8
 - geopandas=0.9.0
+- geopandas-base=0.9.0
 - cartopy=0.18.0
-- notebook=6.2.0
+- fiona=
 - rasterio=1.2.0
 - rasterstats=0.14.0
 prefix: C:\Users\Aaron\Anaconda3\envs\egm722
